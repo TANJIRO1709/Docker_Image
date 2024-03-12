@@ -6,7 +6,7 @@ WE CAN CREATE DOCKER IMAGES USING MANY LANGAUAGES IN THIS CASE NODE JS HAS BEEN 
 
 ## Installation
 
-Install image with docker
+Pull image with docker
 
 ```bash
   docker pull tanjiro1709/hey-nodejs
